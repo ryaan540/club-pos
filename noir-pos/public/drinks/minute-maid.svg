@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Minute Maid Soft Drinks packshot">
+  <defs><linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#252530"/><stop offset="1" stop-color="#0b0b0f"/></linearGradient><linearGradient id="pack" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#205765"/><stop offset=".28" stop-color="#68c2bd"/><stop offset=".55" stop-color="#205765"/><stop offset=".82" stop-color="#68c2bd"/><stop offset="1" stop-color="#205765"/></linearGradient><linearGradient id="label" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f3eee2"/><stop offset="1" stop-color="#d6cdb8"/></linearGradient></defs>
+  <rect width="400" height="400" fill="url(#back)"/><path d="M0 330h400" stroke="#ffffff" stroke-opacity=".08"/><path d="M96 346h208" stroke="#000000" stroke-opacity=".5" stroke-width="12" stroke-linecap="round"/>
+  <rect x="141" y="76" width="118" height="254" rx="20" fill="url(#pack)" stroke="#ffffff" stroke-opacity=".5" stroke-width="2"/><path d="M150 91h100M150 315h100" stroke="#ffffff" stroke-opacity=".55" stroke-width="4"/><path d="M155 80h90" stroke="#0b0b0f" stroke-opacity=".35" stroke-width="4"/>
+  <rect x="153" y="174" width="94" height="94" rx="8" fill="url(#label)" stroke="#ffffff" stroke-opacity=".65"/>
+  <path d="M161 184h78" stroke="#68c2bd" stroke-width="3"/>
+  <text x="200" y="204" text-anchor="middle" fill="#25232a" font-family="Plus Jakarta Sans,Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1">NOIR · SOFT DRINKS</text>
+  <text x="200" y="225" text-anchor="middle" fill="#17161b" font-family="Plus Jakarta Sans,Arial,sans-serif" font-size="14" font-weight="800">Minute Maid</text>
+  
+  <text x="200" y="256" text-anchor="middle" fill="#514b43" font-family="DM Mono,monospace" font-size="8" letter-spacing="1">COLD SERVE</text>
+  <path d="M157 121v118" stroke="#ffffff" stroke-opacity=".25" stroke-width="4" stroke-linecap="round"/>
+  <text x="200" y="375" text-anchor="middle" fill="#c6c6d0" fill-opacity=".72" font-family="DM Mono,monospace" font-size="9" letter-spacing="2">NOIR · NAIROBI</text>
+</svg>
